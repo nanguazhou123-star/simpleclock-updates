@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.2.4",
-  "notesZh": "新增在线皮肤内容更新和软件版本检查；基础时钟与倒计时继续免费。",
-  "notesEn": "Adds online skin content updates and app version checks. The core clock and countdown remain free."
+  "version": "1.2.5",
+  "notesZh": "鼠标移入数字或时钟周围区域显示按钮，移向按钮时保持显示，移出整个时钟后隐藏。ZIP 版新增 itch.io 单款皮肤购买及激活/恢复；已激活皮肤可离线使用，皮肤内容继续在线更新。",
+  "notesEn": "Hover over the digits or surrounding clock area to show controls; they stay visible as you move onto a button and hide when you leave the whole clock. Adds individual itch.io skin purchases and activation/restoration to the ZIP edition. Activated skins work offline, with online skin content updates."
 }
