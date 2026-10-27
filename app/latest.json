@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.2.5",
-  "notesZh": "鼠标移入数字或时钟周围区域显示按钮，移向按钮时保持显示，移出整个时钟后隐藏。ZIP 版新增 itch.io 单款皮肤购买及激活/恢复；已激活皮肤可离线使用，皮肤内容继续在线更新。",
-  "notesEn": "Hover over the digits or surrounding clock area to show controls; they stay visible as you move onto a button and hide when you leave the whole clock. Adds individual itch.io skin purchases and activation/restoration to the ZIP edition. Activated skins work offline, with online skin content updates."
+  "version": "1.2.13",
+  "notesZh": "皮肤与设置合并为紧凑窗口，皮肤商店支持直接在当前时钟或倒计时上免费预览；改进数字居中、边缘控制按钮和模式切换。修复 ZIP 版四款单品皮肤的激活 / 恢复入口。请退出旧版，从官方 itch.io 页面下载并完整解压新 ZIP 后运行。免费本体和已验证皮肤授权保持。",
+  "notesEn": "Skins and settings now share a compact window, with free skin previews on the current clock or countdown. Improves digit alignment, edge controls and mode switching. Restores the Activate / Restore action for all four individual itch.io skins in the ZIP edition. Exit the old app, download from the official itch.io page and extract the complete new ZIP before running. The free core and verified skin licenses are preserved."
 }
